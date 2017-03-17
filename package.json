@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/IsraelRemache/NodeGastles#readme",
   "dependencies": {
-    "chalk": "^1.1.3"
+    "chalk": "^1.1.3",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.0"
   }
 }
