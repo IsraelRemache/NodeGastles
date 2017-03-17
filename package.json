@@ -1,0 +1,22 @@
+{
+  "name": "nodegastles",
+  "version": "1.0.0",
+  "description": "lessen node van district01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsraelRemache/NodeGastles.git"
+  },
+  "author": "Israel Remache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsraelRemache/NodeGastles/issues"
+  },
+  "homepage": "https://github.com/IsraelRemache/NodeGastles#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
