@@ -1,5 +1,6 @@
 const config = {
-	port:3000
+  database: 'mongodb://localhost/nodejs-introduction',
+  port: 3000
 };
 
 // we moeten wel aan dit module vertellen dat we dit willen exporteren.
